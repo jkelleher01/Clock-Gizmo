@@ -20,3 +20,5 @@ Several libraries required:
 - SPI.h
 - WiFi101.h
 - Servo.h (default)
+
+Laser cut parts, one 3D printed part, axles turned on the lathe, various other parts cut from wood. Post-processing required.
